@@ -6,9 +6,7 @@ The aim of my project was to create a device that allows you to play the popular
 
 # **Game Demo**
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W63zcMBPLeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![IMAGE_LINK](resources/photos/YT_link.PNG)](https://youtu.be/W63zcMBPLeU)
 
 # **Elements used in the project:**
 * RGB matrix 8 x 8 WS2812B
